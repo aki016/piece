@@ -1,0 +1,17 @@
+body{
+	margin: 0 auto;
+}
+
+.piece-img{
+	margin: 0 auto;
+	text-align: center;
+}
+
+img{
+	width: 40vw;	
+}
+
+.text{
+	text-align: center;
+	font-size: 10px;
+}
